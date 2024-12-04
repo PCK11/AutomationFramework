@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","hook:","","Thu Nov 28 21:35:47 IST 2024","failed","Thu Nov 28 21:35:47 IST 2024","","","",""
+"","5717","Given Open TestAutomation Practice website","","Thu Nov 28 21:35:41 IST 2024","passed","Thu Nov 28 21:35:47 IST 2024","","Open Browser: Working on validate button and text","",""
+"","486","Then Validate Start button is diplayed","","Thu Nov 28 21:35:47 IST 2024","passed","Thu Nov 28 21:35:47 IST 2024","","Open Browser: Working on validate button and text","",""
