@@ -44,11 +44,12 @@ Feature: Open Browser
     # Then Upload file from the FileUpload Folder 
 
 
-     Scenario: Working on validate button and text 
+     Scenario: Working on validate button and text value
 
     Given Open TestAutomation Practice website
     #Then Click on Copy Text Button
     Then Validate Start button is diplayed
+
       
 
     
